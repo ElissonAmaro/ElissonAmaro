@@ -1,29 +1,29 @@
 <div align="center">
 
-# Hey, I'm Elisson 👋
+# Oi, eu sou  Elisson 👋
 
-### Fullstack Developer
+### Desenvolvedor Fullstack
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Building+modern+web+%26+mobile+apps;Fullstack+Developer+%7C+Problem+Solver;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Criando+apps+web+%26+mobile+modernos;Desenvolvedor+Fullstack+%7C+Solucionador+de+Problemas;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portifolio-ten-lac-24.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elissondeveloper/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elisson.devtech@gmail.com)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre Mim
 
 ```ts
 const elisson = {
-  role: "Fullstack Developer",
-  code: ["TypeScript", "JavaScript", "Python", "SQL"],
-  focus: "Building scalable web & mobile applications",
-  currentlyLearning: "Always evolving 🚀",
+  cargo: "Desenvolvedor Fullstack",
+  linguagens: ["TypeScript", "JavaScript"],
+  foco: "Criar aplicações web & mobile escaláveis",
+  aprendendo: "Sempre evoluindo 🚀",
 };
 ```
 
@@ -34,7 +34,7 @@ const elisson = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 <div align="center">
 
@@ -53,12 +53,12 @@ const elisson = {
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Databases
+### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Tools & Others
+### Ferramentas & Outros
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -69,17 +69,17 @@ const elisson = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&include_all_commits=true&count_private=true&custom_title=⚡+GitHub+Stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=⚡+GitHub+Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&include_all_commits=true&count_private=true&custom_title=⚡+Estatísticas+GitHub" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=⚡+Estatísticas+GitHub" />
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=donut&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8&custom_title=🔥+Top+Languages" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=donut&hide_border=true&langs_count=8&custom_title=🔥+Top+Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=donut&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8&custom_title=🔥+Linguagens+Mais+Usadas" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=donut&hide_border=true&langs_count=8&custom_title=🔥+Linguagens+Mais+Usadas" />
   </picture>
 </div>
 
@@ -100,17 +100,17 @@ const elisson = {
 
 ---
 
-## � Contribution Graph
+## 📈 Gráfico de Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Gráfico de Atividade" />
 </div>
 
 ---
 
 <div align="center">
 
-### 📬 Let's connect!
+### 📬 Vamos nos conectar!
 
 Se você curtiu o que viu, me manda uma mensagem! Estou sempre aberto a trocar ideias e colaborar em projetos.
 
