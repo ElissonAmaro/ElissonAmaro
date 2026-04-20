@@ -23,7 +23,7 @@ const elisson = {
   cargo: "Desenvolvedor Fullstack",
   linguagens: ["TypeScript", "JavaScript"],
   foco: "Criar aplicações web & mobile escaláveis",
-  aprendendo: "Sempre evoluindo 🚀",
+  aprendendo: "Sempre evoluindo ",
 };
 ```
 
