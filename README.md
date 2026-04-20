@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Fullstack
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=620&lines=Criando+apps+web+%26+mobile+modernos;Desenvolvedor+Fullstack+%7C+Resolvendo+Problemas;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=620&lines=Criando+apps+web+%26+mobile+modernos;Desenvolvedor+Fullstack+%7C;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 <br/>
 
