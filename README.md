@@ -16,7 +16,7 @@
 
 ---
 
-## 🧑‍💻 Sobre Mim
+##  Sobre Mim
 
 ```ts
 const elisson = {
@@ -27,14 +27,14 @@ const elisson = {
 };
 ```
 
-- 🔭 Desenvolvedor Fullstack apaixonado por criar soluções completas
-- 📱 Experiência com aplicações **web** e **mobile**
-- ⚡ Foco em código limpo, performance e boas práticas
-- 🌍 Aberto a colaborações e novos desafios
+-  Desenvolvedor Fullstack apaixonado por criar soluções completas
+-  Experiência com aplicações **web** e **mobile**
+-  Foco em código limpo, performance e boas práticas
+-  Aberto a colaborações e novos desafios
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 <div align="center">
 
@@ -68,58 +68,5 @@ const elisson = {
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&include_all_commits=true&count_private=true&custom_title=⚡+Estatísticas+GitHub" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=⚡+Estatísticas+GitHub" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=donut&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8&custom_title=🔥+Linguagens+Mais+Usadas" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=donut&hide_border=true&langs_count=8&custom_title=🔥+Linguagens+Mais+Usadas" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SEU_USERNAME&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555&currStreakNum=C9D1D9&sideNums=6C63FF" />
-    <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&hide_border=true" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
----
-
-## 📈 Gráfico de Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Gráfico de Atividade" />
-</div>
-
----
-
-<div align="center">
-
-### 📬 Vamos nos conectar!
-
-Se você curtiu o que viu, me manda uma mensagem! Estou sempre aberto a trocar ideias e colaborar em projetos.
-
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=6C63FF&style=for-the-badge)
 
 </div>
